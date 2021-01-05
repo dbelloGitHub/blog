@@ -4,6 +4,7 @@ email: danielbello.hosting at outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   programación con código abierto.
 
+theme: minima
 # social links
 twitter_username: danielbellofoto # DO NOT include the @ character, or else the build will fail!
 github_username:  dbellogithub # DO NOT include the @ character, or else the build will fail!
