@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Bienvenido a mi blog github
 
-I'm glad you are here. I plan to talk about ...
+Blog en Construcción
